@@ -1,8 +1,8 @@
 # Lab1Web
 
-<h3>NAMA : FAJAR ARIF RIYANTO</h3>
-<h3>NIM : 311910666</h3>
-<h3>KELAS : TI 19 B2</h3>
+<h2>NAMA : FAJAR ARIF RIYANTO</h2>
+<h2>NIM : 311910666</h2>
+<h2>KELAS : TI 19 B2</h2>
 <hr>
 1. Membuat File HTML dan membukanya pada browser
 <br>
