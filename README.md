@@ -1,5 +1,9 @@
 # Lab1Web
 
+<h3>NAMA : FAJAR ARIF RIYANTO</h3>
+<h3>NIM : 311910666</h>
+<h3>KELAS : TI 19 B2</h>
+<hr>
 1. Membuat File HTML dan membukanya pada browser
 <br>
 <img src="sc/Tag HTML Dasar - Google Chrome_010.png" width="800px"></img>
